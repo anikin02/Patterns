@@ -1,3 +1,3 @@
 # Patterns
 ## Tasks for the university on Object-oriented Programming.
-### The prototype creational pattern, the bridge structural pattern and the iterator behavioral pattern were implemented.
+### The Prototype creational pattern, the Bridge structural pattern and the Iterator behavioral pattern were implemented. The task was completed in C#.
