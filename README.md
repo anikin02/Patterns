@@ -1,2 +1,2 @@
 # Patterns
-## Tasks for the university on Object-oriented Programming.
+## Tasks for the University on Object-oriented Programming.
