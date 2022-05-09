@@ -1,0 +1,16 @@
+C:\OOP\Patterns\Iterator\Iterator\bin\Debug\net5.0\Iterator.exe
+C:\OOP\Patterns\Iterator\Iterator\bin\Debug\net5.0\Iterator.deps.json
+C:\OOP\Patterns\Iterator\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.json
+C:\OOP\Patterns\Iterator\Iterator\bin\Debug\net5.0\Iterator.runtimeconfig.dev.json
+C:\OOP\Patterns\Iterator\Iterator\bin\Debug\net5.0\Iterator.dll
+C:\OOP\Patterns\Iterator\Iterator\bin\Debug\net5.0\ref\Iterator.dll
+C:\OOP\Patterns\Iterator\Iterator\bin\Debug\net5.0\Iterator.pdb
+C:\OOP\Patterns\Iterator\Iterator\obj\Debug\net5.0\Iterator.csproj.AssemblyReference.cache
+C:\OOP\Patterns\Iterator\Iterator\obj\Debug\net5.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\Patterns\Iterator\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfoInputs.cache
+C:\OOP\Patterns\Iterator\Iterator\obj\Debug\net5.0\Iterator.AssemblyInfo.cs
+C:\OOP\Patterns\Iterator\Iterator\obj\Debug\net5.0\Iterator.csproj.CoreCompileInputs.cache
+C:\OOP\Patterns\Iterator\Iterator\obj\Debug\net5.0\Iterator.dll
+C:\OOP\Patterns\Iterator\Iterator\obj\Debug\net5.0\ref\Iterator.dll
+C:\OOP\Patterns\Iterator\Iterator\obj\Debug\net5.0\Iterator.pdb
+C:\OOP\Patterns\Iterator\Iterator\obj\Debug\net5.0\Iterator.genruntimeconfig.cache
